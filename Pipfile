@@ -13,6 +13,8 @@ pandas = "*"
 scipy = "*"
 librosa = "*"
 jupyterlab = "*"
+tensorflow = "*"
+numba = "==0.48.0"
 
 [requires]
 python_version = "3.6"
